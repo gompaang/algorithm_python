@@ -12,4 +12,4 @@
 ## graph algorithm
 - Depth-first search (DFS)
 - Bredth-first search (BFS)
-- Dijkstra;s algorithm
+- Dijkstra's algorithm
