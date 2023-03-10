@@ -24,4 +24,7 @@ def quick_sort(input, start, end):
 if __name__ == '__main__':
     print('enter array... ex) 4 2 9 1 8')
     arr = [int(x) for x in input().split()]
+    print(arr)
+
     quick_sort(arr, 0, len(arr)-1)
+    print(arr)
