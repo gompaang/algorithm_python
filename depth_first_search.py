@@ -52,7 +52,7 @@ def dfs_recursive(graph, start_node, visited=[]):
 
 
 if __name__ == '__main__':
-    #bfs- input: graph, output: order search node
+    #dfs- input: graph, output: order search node
 
     # graph = dict()
     graph = {
