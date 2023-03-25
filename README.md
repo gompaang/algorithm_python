@@ -4,6 +4,7 @@ this repository is about algorithm implementation by python.<br/>more detail des
 ### contents
 - divide-and-conquer
 - graph algorithm
+- greedy algorithm
 <br/>
 
 
@@ -21,3 +22,11 @@ this repository is about algorithm implementation by python.<br/>more detail des
 - Dijkstra's algorithm : shortest path (priority queue - heap)  [[code]](https://github.com/gompaang/algorithm_python/blob/master/dijkstra.py)
 - Bellman-Ford's algorithm : shortest path (include negative edges)  [[code]](https://github.com/gompaang/algorithm_python/blob/master/bellman_ford.py)
 <br/>
+
+## 3. greedy algorithm
+- MST (Minimum Spanning Tree)
+  - Kruskal's algorithm : priority queue - heap [[code]](https://github.com/gompaang/algorithm_python/blob/master/kruskal.py)
+  - Prim's algorithm
+- Huffman-encoding
+<br/>
+
