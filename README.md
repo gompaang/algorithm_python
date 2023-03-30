@@ -5,6 +5,7 @@ this repository is about algorithm implementation by python.<br/>more detail des
 - divide-and-conquer
 - graph algorithm
 - greedy algorithm
+- dynamic programming
 <br/>
 
 
@@ -28,5 +29,12 @@ this repository is about algorithm implementation by python.<br/>more detail des
   - Kruskal's algorithm : priority queue - heap [[code]](https://github.com/gompaang/algorithm_python/blob/master/kruskal.py)
   - Prim's algorithm
 - Huffman-encoding
+<br/>
+
+## 4. dynamic programming
+- shortest paths in dags
+- longest increasing subsequences
+- edit distance
+- knapsack
 <br/>
 
