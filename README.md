@@ -18,10 +18,12 @@ this repository is about algorithm implementation by python.<br/>more detail des
 <br/>
 
 ## 2. graph algorithm
-- Depth-first search (DFS) : stack  [[code]](https://github.com/gompaang/algorithm_python/blob/master/depth_first_search.py)
-- Bredth-first search (BFS) : queue  [[code]](https://github.com/gompaang/algorithm_python/blob/master/breadth_first_search.py)
-- Dijkstra's algorithm : shortest path (priority queue - heap)  [[code]](https://github.com/gompaang/algorithm_python/blob/master/dijkstra.py)
-- Bellman-Ford's algorithm : shortest path (include negative edges)  [[code]](https://github.com/gompaang/algorithm_python/blob/master/bellman_ford.py)
+- search
+  - Depth-first search (DFS) : stack  [[code]](https://github.com/gompaang/algorithm_python/blob/master/depth_first_search.py)
+  - Bredth-first search (BFS) : queue  [[code]](https://github.com/gompaang/algorithm_python/blob/master/breadth_first_search.py)
+- shortest path
+  - Dijkstra's algorithm : shortest path (priority queue - heap)  [[code]](https://github.com/gompaang/algorithm_python/blob/master/dijkstra.py)
+  - Bellman-Ford's algorithm : shortest path (include negative edges)  [[code]](https://github.com/gompaang/algorithm_python/blob/master/bellman_ford.py)
 <br/>
 
 ## 3. greedy algorithm
