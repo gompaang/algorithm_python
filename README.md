@@ -36,5 +36,7 @@ this repository is about algorithm implementation by python.<br/>more detail des
 - longest increasing subsequences
 - edit distance
 - knapsack
+- chain matrix multiplication
+- independent sets in trees
 <br/>
 
