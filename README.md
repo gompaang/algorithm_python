@@ -15,6 +15,8 @@ this repository is about algorithm implementation by python.<br/>more detail des
 ### sort
 - merge sort 
 - quick sort : pivot, recursive  [[code]](https://github.com/gompaang/algorithm_python/blob/master/quick_sort.py)
+### etc
+- Fibonacci numbers
 <br/>
 
 ## 2. graph algorithm
