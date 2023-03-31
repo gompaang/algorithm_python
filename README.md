@@ -10,6 +10,7 @@ this repository is about algorithm implementation by python.<br/>more detail des
 
 
 ## 1. divide-and-conquer
+주어진 문제를 **분할**(divide)하고, **해결**(conquer)하여 결과들을 다시 **합**(combine)하는 방식이다.<br/> 주로, recursive 재귀를 사용하여 구현한다.
 ### binary search
 - binary search : compare mid  [[code]](https://github.com/gompaang/algorithm_python/blob/master/binary_search.py)
 ### sort
@@ -36,6 +37,7 @@ this repository is about algorithm implementation by python.<br/>more detail des
 <br/>
 
 ## 4. dynamic programming
+주어진 문제를 한 번만 풀도록 하는 방식이다. <br/>하나의 문제를 sub-problem으로 계속해서 쪼개어 가장 작은 sub-probelm을 해결하여 최종적인 problem이 해결되는 방식이다.
 - shortest paths in dags
 - longest increasing subsequences
 - edit distance
