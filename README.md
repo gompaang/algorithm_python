@@ -51,7 +51,7 @@ this repository is about algorithm implementation by python.<br/>more detail des
 
 ## 4. graph algorithm
 - graph traversal
-  - DFS (Depth-first search) : stack  [[code]](https://github.com/gompaang/algorithm_python/blob/master/depth_first_search.py)
+  - DFS (Depth-first search) : stack  [[code]](https://github.com/gompaang/algorithm_python/blob/master/depth_first_search.py) , recusive [[code]](https://github.com/gompaang/algorithm_python/blob/master/dfs.py)
   - BFS (Bredth-first search) : queue  [[code]](https://github.com/gompaang/algorithm_python/blob/master/breadth_first_search.py)
 - shortest path
   - Dijkstra's algorithm : greedy (priority queue - heap)  [[code]](https://github.com/gompaang/algorithm_python/blob/master/dijkstra.py)
