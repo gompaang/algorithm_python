@@ -16,6 +16,7 @@ this repository is about algorithm implementation by python.<br/>more detail des
 - insertion sort [[code]](https://github.com/gompaang/algorithm_python/blob/master/insertion_sort.py)
 - quick sort [[code]](https://github.com/gompaang/algorithm_python/blob/master/quick_sort.py) , [[python easy ver.]](https://github.com/gompaang/algorithm_python/blob/master/quick_sort_python.py)
 - merge sort
+- count sort [[code]](https://github.com/gompaang/algorithm_python/blob/master/count_sort.py)
 <br/>
 
 ## 1. divide-and-conquer
