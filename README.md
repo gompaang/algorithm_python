@@ -21,12 +21,9 @@ this repository is about algorithm implementation by python.<br/>more detail des
 
 ## 1. divide-and-conquer
 주어진 문제를 **분할**(divide)하고, **해결**(conquer)하여 결과들을 다시 **합**(combine)하는 방식이다.<br/> 주로, recursive 재귀를 사용하여 구현한다.
-### binary search
 - binary search : compare mid  [[code]](https://github.com/gompaang/algorithm_python/blob/master/binary_search.py)
-### sort
 - merge sort 
 - quick sort : pivot, recursive  [[code]](https://github.com/gompaang/algorithm_python/blob/master/quick_sort.py)
-### etc
 - Fibonacci numbers
 <br/>
 
