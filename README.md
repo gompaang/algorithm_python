@@ -14,7 +14,7 @@ this repository is about algorithm implementation by python.<br/>more detail des
 주어진 배열을 오름차순(내림차순)으로 정렬하는 문제이다.
 - selection sort [[code]](https://github.com/gompaang/algorithm_python/blob/master/selection_sort.py)
 - insertion sort [[code]](https://github.com/gompaang/algorithm_python/blob/master/insertion_sort.py)
-- quick sort [[code]](https://github.com/gompaang/algorithm_python/blob/master/quick_sort.py)
+- quick sort [[code]](https://github.com/gompaang/algorithm_python/blob/master/quick_sort.py) , [[python easy ver.]](https://github.com/gompaang/algorithm_python/blob/master/quick_sort_python.py)
 - merge sort
 <br/>
 
