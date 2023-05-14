@@ -26,4 +26,5 @@ def quick_sort(array, start, end):
 if __name__ == '__main__':
 
     array = [7, 5, 9, 0, 3, 1, 6, 2, 4, 8]
-    print(quick_sort(array, 0, len(array)-1))
+    quick_sort(array, 0, len(array) - 1)
+    print(array)
