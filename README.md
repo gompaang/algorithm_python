@@ -24,12 +24,12 @@ this repository is about algorithm implementation by python.<br/>more detail des
 - binary search : compare mid  [[code]](https://github.com/gompaang/algorithm_python/blob/master/binary_search.py)
 - merge sort 
 - quick sort : pivot, recursive  [[code]](https://github.com/gompaang/algorithm_python/blob/master/quick_sort.py)
-- Fibonacci numbers
 <br/>
 
 
 ## 2. dynamic programming
-주어진 문제를 한 번만 풀도록 하는 방식이다. <br/>하나의 문제를 sub-problem으로 계속해서 쪼개어 가장 작은 sub-probelm을 해결하여 최종적인 problem이 해결되는 방식이다. 이 sub-problem 은 중복되어 저장된다. <br/>dynamic programming 과 divide-and-conquer 의 가장 큰 차이점은 sub-probelm의 **중복여부** 이다.
+주어진 문제를 한 번만 풀도록 하는 방식이다. <br/>큰 문제를 sub-problem으로 나눌 수 있으며, sub-problem을 해결한 정답이 큰 문제에서도 동일하다. <br/>dynamic programming 과 divide-and-conquer 의 가장 큰 차이점은 sub-problem의 **중복여부** 이다.
+- Fibonacci numbers : recursive, memoization(top-down), for문(bottom-up) [[code]](https://github.com/gompaang/algorithm_python/blob/master/fibonacci.py)
 - shortest paths (Floyd-Warshall)
 - longest increasing subsequences
 - edit distance
